@@ -37,6 +37,10 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 📃 [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
 * 📃 [Platform Engineering não deveria ser tão complicado e vou usar League of Legends para te explicar](https://medium.com/@_gdantas/platform-engineering-n%C3%A3o-deveria-ser-t%C3%A3o-complicado-e-vou-usar-league-of-legends-para-te-explicar-0c81b296473e)
 * 📃 [Leveraging Data for Success: Understanding the Developer Experience Survey at Livelo](https://medium.com/livelo/leveraging-data-for-success-understanding-the-developer-experience-survey-at-livelo-f4a96ed170c6)
+* 📃 [The technological evolution at Mercado Libre: from the monolith to the multicloud platform](https://medium.com/mercadolibre-tech/the-technological-evolution-at-mercado-libre-fb269776a4e8)
+* 📃 [30.000 deployments per day? Here’s how we operate without losing our minds](https://medium.com/mercadolibre-tech/30-000-deployments-per-day-heres-how-we-operate-without-losing-our-minds-0eddc0480fb9)
+* 📃 [Kubernetes at Mercado Libre](https://medium.com/mercadolibre-tech/kubernetes-at-mercado-libre-ec331bea1866)
+* 📃 [How Kubernetes became the right fit for Mercado Libre’s internal developer platform](https://medium.com/mercadolibre-tech/how-kubernetes-became-the-right-fit-for-mercado-libres-internal-developer-platform-fb02df289def)
 * *(em construção — contribua via PR ou issue)*
 
 
