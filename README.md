@@ -97,6 +97,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 📦 [A ready-to-use environment for modern platform engineering experimentation, combining (B)ackstage, (A)rgoCD, (C)rossplane, and (K)yverno! ](https://github.com/wnqueiroz/platform-engineering-backstack)
 * 📦 [Alternative Backstage Distro | VeeCode](https://github.com/veecode-platform/devportal-distro)
 * 📦 [Backstage Plugins Made in Brazil | VeeCode](https://github.com/veecode-platform/platform-backstage-plugins?tab=readme-ov-file)
+* [DevSecOps and Platform Engineering Knowledgement](https://devsecops.puziol.com.br/)
 * *(em construção — contribua via PR ou issue)*
 
 ---
@@ -105,6 +106,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 > Trilhas, cursos e formações relevantes para quem quer aprender Platform Engineering.
 
+* [Observability in deep](https://www.youtube.com/playlist?list=PL6o9L5ukTTEOtEsbMn377QfgYi_dn6Hor) - Mario Valente
 * *(em construção — contribua via PR ou issue)*
 
 ---
