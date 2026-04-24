@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineering, Internal Developer Platforms (IDP) e Developer Experience com foco no ecossistema brasileiro.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 > Objetivo: ser um ponto de partida prático para quem quer estudar, implementar ou evoluir Platform Engineering no Brasil.
 
